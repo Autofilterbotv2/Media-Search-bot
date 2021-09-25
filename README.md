@@ -1,4 +1,4 @@
-# [Media Search bot](https://github.com/Mahesh0253/Media-Search-bot)
+# [Media Search bot]
 
 * Index channel or group files for inline search.
 * When you post file on telegram channel or group this bot will save that file in database, so you can search easily in inline mode.
@@ -6,9 +6,9 @@
 
 ## Installation
 
-### Watch this video to create bot - https://youtu.be/dsuTn4qV2GA
+### Watch this video to create bot - https://telegram.dog/Ethicall_hacker
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://telegram.dog/Ethicall_hacker)
 
 
 ### Hard Way
@@ -31,13 +31,13 @@ Check [`sample_info.py`](sample_info.py) before editing [`info.py`](info.py) fil
 ### Docker
 ```
 docker run -d \
-    -e BOT_TOKEN="123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11" \
-    -e API_ID='12345' \
-    -e API_HASH='0123456789abcdef0123456789abcdef' \
-    -e CHANNELS='-10012345678' \
-    -e ADMINS='123456789' \
-    -e DATABASE_URI="mongodb+srv://...mongodb.net/Database?retryWrites=true&w=majority" \
-    -e DATABASE_NAME=databasename \
+    -e BOT_TOKEN="1931930325:AAGnlsCxAqFpvblMLuiJpk92MgL4EkgXYdE" \
+    -e API_ID='7107266' \
+    -e API_HASH='b51ba64f482955a6604c4cb0c28f1346' \
+    -e CHANNELS='-1001168040521' \
+    -e ADMINS='1919430954 1886634711' \
+    -e DATABASE_URI="mongodb+srv://dsUser:805070sanj@autofilterbot.zoldu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority" \
+    -e DATABASE_NAME=autofilterbot \
     --restart on-failure \
     --name mediasearchbot botxtg/media-search-bot
 ```
@@ -85,10 +85,10 @@ logger - Get log file
 ## Contributions
 Contributions are welcome.
 
-## Thanks to [Pyrogram](https://github.com/pyrogram/pyrogram)
+## Thanks to [Pyrogram](https://telegram.dog/Ethicall_hacker)
 
 ## Support
-[Update Channel](https://t.me/botxupdates) and [Support Group](https://t.me/botxsupport)
+[Update Channel](https://t.me/Ethicall_hacker) and [Support Group](https://t.me/joinchat/SNDJpbiyzyCASzo6)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
